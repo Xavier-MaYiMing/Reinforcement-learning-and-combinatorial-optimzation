@@ -5,6 +5,6 @@ Includes algorithm principles and clean, well-structured code.
 
 ## Covered Topics
 
-- [x] **[Deep Q Network (DQN)](https://www.example.com/dqn)**
+- [x] **[Deep Q Network (DQN)](https://github.com/Xavier-MaYiMing/Reinforcement-learning-and-combinatorial-optimzation/blob/main/DQN.ipynb)**
 
 Stay tuned for more updates!
