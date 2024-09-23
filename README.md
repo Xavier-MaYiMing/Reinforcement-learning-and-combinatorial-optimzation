@@ -12,5 +12,6 @@ Includes algorithm principles and clean, well-structured code.
 - [x] **[REINFORCE with Baseline](https://github.com/Xavier-MaYiMing/Reinforcement-learning-and-combinatorial-optimzation/blob/main/REINFORCE_with_baseline.ipynb)**
 - [x] **[Actor Critic](https://github.com/Xavier-MaYiMing/Reinforcement-learning-and-combinatorial-optimzation/blob/main/actor-critic.ipynb)**
 - [x] **[Advantage Acrtor Critic (A2C)](https://github.com/Xavier-MaYiMing/Reinforcement-learning-and-combinatorial-optimzation/blob/main/A2C.ipynb)**
+- [ ] **[Proximal Policy Optimization (PPO)](https://github.com/Xavier-MaYiMing/Reinforcement-learning-and-combinatorial-optimzation/blob/main/PPO.ipynb)**
 
 Stay tuned for more updates!
