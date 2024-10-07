@@ -47,5 +47,8 @@ Active search starts from scratch using DRL to solve individual problems by cont
   **Reference:** Kool, W., Van Hoof, H., Welling, M. Attention, learn to solve routing problems! arXiv preprint arXiv:1803.08475, 2018.
 The rollout baseline is a more effective strategy compared to the moving average baseline.
 
+- [x] **[Multi-Head Self-Attention, REINFORCE with Rollout Baseline, Greedy & Sampling for VRP](https://github.com/Xavier-MaYiMing/Reinforcement-learning-and-combinatorial-optimzation/blob/main/DRL4VRP%20(Attention%2C%20REINFORCE%20with%20Rollout%20Baseline).ipynb)**  
+  **Reference:** Kool, W., Van Hoof, H., Welling, M. Attention, learn to solve routing problems! arXiv preprint arXiv:1803.08475, 2018.
+
 
 Stay tuned for more updates!
