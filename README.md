@@ -33,8 +33,12 @@ This repository provides insights into various reinforcement learning algorithms
 
 ### Reinforcement Learning for Combinatorial Optimization Problems
 
-- [] **[LSTM and Pointer Network, A2C, Greedy & Sampling & Active Search for TSP]()**  
+- [] **[LSTM and Pointer Network, A2C, Greedy & Sampling for TSP]()**  
   **Reference:** Bello, I., Pham, H., Le, Q. V., et al. Neural combinatorial optimization with reinforcement learning. arXiv preprint arXiv:1611.09940, 2016.
+
+- [x] **[Multi-Head Self-Attention, REINFORCE, Active Search for TSP](https://github.com/Xavier-MaYiMing/Reinforcement-learning-and-combinatorial-optimzation/blob/main/DRL4TSP%20(Attention%2C%20REINFORCE%2C%20active%20search).ipynb)**  
+  **Reference:** Bello, I., Pham, H., Le, Q. V., et al. Neural combinatorial optimization with reinforcement learning. arXiv preprint arXiv:1611.09940, 2016.
+Active search starts from scratch using DRL to solve individual problems by continuously learning and adjusting the model during inference.
 
 - [x] **[Multi-Head Self-Attention, REINFORCE, Greedy & Sampling for TSP](https://github.com/Xavier-MaYiMing/Reinforcement-learning-and-combinatorial-optimzation/blob/main/DRL4TSP%20(Attention%2C%20REINFORCE).ipynb)**  
   **Reference:** Kool, W., Van Hoof, H., Welling, M. Attention, learn to solve routing problems! arXiv preprint arXiv:1803.08475, 2018.
