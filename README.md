@@ -31,6 +31,11 @@ This repository provides insights into various reinforcement learning algorithms
 - [x] **[Proximal Policy Optimization (PPO)](https://github.com/Xavier-MaYiMing/Reinforcement-learning-and-combinatorial-optimzation/blob/main/PPO.ipynb)**  
   A state-of-the-art policy gradient method that ensures stable learning by limiting policy updates.
 
+### Graph Neural Networks
+
+- [] **[Graph Convolutional Network (GCN)](https://github.com/Xavier-MaYiMing/Reinforcement-learning-and-combinatorial-optimzation/blob/main/Graph%20Convolutional%20Network.ipynb)
+  **Reference:** Kipf T N, Welling M. Semi-supervised classification with graph convolutional networks[J]. arXiv preprint arXiv:1609.02907, 2016.
+
 ### Reinforcement Learning for Combinatorial Optimization Problems
 
 - [x] **[LSTM and Pointer Network, A2C, Greedy & Sampling for TSP](https://github.com/Xavier-MaYiMing/Reinforcement-learning-and-combinatorial-optimzation/blob/main/DRL4TSP%20(LSTM%2C%20A2C).ipynb)**  
