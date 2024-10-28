@@ -33,7 +33,7 @@ This repository provides insights into various reinforcement learning algorithms
 
 ### Graph Neural Networks
 
-- [] **[Graph Convolutional Network (GCN)](https://github.com/Xavier-MaYiMing/Reinforcement-learning-and-combinatorial-optimzation/blob/main/Graph%20Convolutional%20Network.ipynb)
+- [x] **[Graph Convolutional Network (GCN)](https://github.com/Xavier-MaYiMing/Reinforcement-learning-and-combinatorial-optimzation/blob/main/Graph%20Convolutional%20Network.ipynb)
   **Reference:** Kipf T N, Welling M. Semi-supervised classification with graph convolutional networks[J]. arXiv preprint arXiv:1609.02907, 2016.
 
 ### Reinforcement Learning for Combinatorial Optimization Problems
