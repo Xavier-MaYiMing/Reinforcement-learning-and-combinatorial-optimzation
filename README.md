@@ -41,6 +41,9 @@ This repository provides insights into various reinforcement learning algorithms
 - [x] **[LSTM and Pointer Network, A2C, Greedy & Sampling for TSP](https://github.com/Xavier-MaYiMing/Reinforcement-learning-and-combinatorial-optimzation/blob/main/DRL4TSP%20(LSTM%2C%20A2C).ipynb)**  
   **Reference:** Bello, I., Pham, H., Le, Q. V., et al. Neural combinatorial optimization with reinforcement learning. arXiv preprint arXiv:1611.09940, 2016.
 
+- [x] **[Embedding and Pointer Network, REINFORCE with Rollout Baseline, Greedy & Sampling for VRP](https://github.com/Xavier-MaYiMing/Reinforcement-learning-and-combinatorial-optimzation/blob/main/DRL4VRP%20(Embedding%2C%20REINFORCE%20with%20Rollout%20Baseline).ipynb)**  
+  **Reference:** Nazari M, Oroojlooy A, Snyder L, et al. Reinforcement learning for solving the vehicle routing problem[C]. Advances in Neural Information Processing Systems, 2018, 31.
+
 - [x] **[Multi-Head Self-Attention, REINFORCE, Active Search for TSP](https://github.com/Xavier-MaYiMing/Reinforcement-learning-and-combinatorial-optimzation/blob/main/DRL4TSP%20(Attention%2C%20REINFORCE%2C%20active%20search).ipynb)**  
   **Reference:** Bello, I., Pham, H., Le, Q. V., et al. Neural combinatorial optimization with reinforcement learning. arXiv preprint arXiv:1611.09940, 2016.
 Active search starts from scratch using DRL to solve individual problems by continuously learning and adjusting the model during inference.
